@@ -8,4 +8,3 @@ The **Food Recipe App** is a Flutter-based mobile application that provides user
 - **Search Recipes:** Find recipes by ingredients, dish name, or cuisine.
 - **Save Favorite Recipes:** Bookmark your favorite recipes for quick access.
 - **User-Friendly Interface:** Clean and intuitive UI for an easy and enjoyable experience.
-- **Interactive Chat Bot:** Get cooking tips and recipe suggestions with our AI bot "Sarthi."
